@@ -1,0 +1,23 @@
+.searchbar {
+  border: 1px solid rgb(192, 192, 192);
+  border-radius: 25px;
+  height: 50px;
+  width: 600px;
+  padding-left: 25px;
+}
+
+table,
+table tr th,
+table tr td {
+  border: 2px solid #000000;
+}
+
+#table {
+  text-align: center;
+  border-collapse: collapse;
+  width: 700px;
+}
+
+.table_head {
+  background-color: rgb(192, 192, 192);
+}
